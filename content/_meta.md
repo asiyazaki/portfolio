@@ -1,14 +1,11 @@
 ---
-Logo: image/leaf_256x256.png
+Logo: image/bth_logo.png
 Tagline: My portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Link to my github page.
+      url: https://github.com/asiyazaki/
       icon: github
-    - title: Link till twitter repo.
-      url: https://twitter.com/haticekekic
-      icon: twitter
-    - title: Link till min instagram.
-      url: https://instagram.com/haticekekic
-      icon: instagram
+    - title: Link to course site.
+      url: https://dbwebb.se/design
+      icon: leaf
 ---

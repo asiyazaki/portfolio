@@ -3,10 +3,15 @@
 <body>
     {% include 'incl/nav.twig' %}
 
+    <div class="flash-region">
+    <div style="height: 200px; width: 400px;">
+        <img class="flash-img" src="{{ base_url }}/image/header1.jpg">
+    </div>
+
     <div class="main" role="main">
         {{ content }}
     </div>
-    
+
     {% include 'incl/footer.twig' %}
 </body>
 
