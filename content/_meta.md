@@ -4,8 +4,8 @@ Tagline: My portfolio.
 Social:
     - title: Link to my github page.
       url: https://github.com/asiyazaki/
-      icon: github
+      icon: fab fa-github
     - title: Link to course site.
       url: https://dbwebb.se/design
-      icon: leaf
+      icon: fas fa-leaf
 ---
