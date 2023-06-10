@@ -2,16 +2,23 @@
 
 html {
     font-size: 100%;
+    background-color: #ffb38c;
 }
 
 body {
     line-height: $base-line-height; //radavstånd
+    color: $font-color;
 }
 
 h1 {
     font-size: 3em;
     margin-bottom: $magic-number * 2;
     font-family: 'Inter', sans-serif;
+    color: #7d4325;
+}
+
+h2 {
+    color: #7d4325;
 }
 
 p {
@@ -25,6 +32,22 @@ p {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     margin: 0 auto; //centrerade main här
+}
+
+.footer {
+    background-color: #ffb38c;
+}
+
+.header {
+    background-color: #ffb38c;
+}
+
+.sidebar {
+    background-color: #c6b2a8;
+}
+
+.logo {
+    filter: opacity(50%);
 }
 
 @media (min-width: 64em) {
